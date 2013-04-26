@@ -1,0 +1,34 @@
+Stellarium "Drop-In Planetarium" project
+
+See sky at any time, controlling
+       -Date
+       -Time of day/night
+       -Diurnal Motion, controlling speed both Forward and Backward
+
+Find Constellations
+       --Select Constellation
+       --Show Stick figure(s)
+       --Show art version(s)
+               -Indian
+               -Greek/Roman
+               -Chinese
+               -other cultures
+See sky from any location on Earth, selecting from
+       -map
+       -List Cities
+       -Latitude/Longitude
+
+Show Moon changes
+       Select Current Date or Specify Date
+       Show 1 month cycle in daily steps showing progression ofphases
+               (effectively, Earth not rotating)
+       Starting position:
+               -right after sunset if Moon is waxing
+               -right before sunrise if Moon is waning
+
+Planets
+       Mark position of planet on meridian
+       Zoom to planet/Teleport to
+       Stand on a moon to view planet
+
+Starclock---Tell time by the stars
